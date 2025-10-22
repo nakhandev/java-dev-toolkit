@@ -1,8 +1,6 @@
-# [====] Java Developer Toolkit (FJDTOOL)
+# Java Developer Toolkit
 
 <div align="center">
-
-# [====] Java Developer Toolkit (FJDTOOL)
 
 [![Java Toolkit](https://img.shields.io/badge/Java_Developer_Toolkit-v1.0.0-blue?style=for-the-badge&logo=java&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -12,86 +10,86 @@
 [![React](https://img.shields.io/badge/React-Ready-blue?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-[==== ROCKET ====] **F**ull-stack **J**ava **D**eveloper **TOOL**kit - The Ultimate Development Environment Management Script
+**Full-Stack Java Developer Toolkit** - The Ultimate Development Environment Management Script
 
-[[==== LIST ====] Features](#-features) • [[==== ROCKET ====] Quick Start](#-quick-start) • [==== BOOK ====] Documentation](#-documentation) • [[==== TOOLS ====] Installation](#-installation) • [[==== HANDSHAKE ====] Contributing](#-contributing)
+[Features](#features) • [Quick Start](#quick-start) • [Documentation](#documentation) • [Installation](#installation) • [Contributing](#contributing)
 
 </div>
 
 ---
 
-## [==== STAR ====] Overview
+## Overview
 
-The **Java Developer Toolkit** (`java-dev-toolkit.sh`) is a revolutionary, enterprise-grade development environment management script that seamlessly orchestrates complex full-stack Java applications. Built for modern development workflows, it combines intelligent automation, adaptive configuration, and professional-grade tooling in a single, elegant solution.
+The **Java Developer Toolkit** (`java-dev-toolkit.sh`) is a comprehensive development environment management script designed for modern full-stack Java applications. It automates setup, orchestration, and management, combining intelligent configuration with professional-grade tooling for seamless development workflows.
 
-### [TARGET] **Why Choose Java Developer Toolkit?**
+### Why Choose Java Developer Toolkit?
 
-- **[BRAIN] Intelligent Automation**: AI-powered system detection and optimization
-- **[LIGHTNING] Lightning Fast**: Complete environment setup in under 2 minutes
-- **[PALETTE] Beautiful Interface**: Multiple progress bar styles with celebration effects
-- [[==== TOOLS ====] Zero Configuration]: Automatically adapts to your system capabilities
-- [[==== DOCKER ====] Production Ready]: Docker integration with security best practices
-- [[==== CHART ====] Real-time Monitoring]: Live dashboard with system metrics
-- [[==== LOCK ====] Enterprise Security]: Secure credential management and JWT authentication
-
----
-
-## [==== SPARKLE ====] Key Features
-
-### [TARGET] **Adaptive Intelligence**
-- **System Auto-Detection**: Analyzes CPU, RAM, disk space, and architecture
-- **Smart Classification**: Automatically categorizes devices (low-end to ultra-high)
-- **Dynamic Optimization**: Applies optimal configuration based on hardware
-- **Resource Management**: Intelligent JVM heap and database connection allocation
-
-### [[==== ROCKET ====] Complete Project Lifecycle]
-- **One-Command Setup**: Initialize complete development environment instantly
-- **Service Orchestration**: Perfect coordination of Spring Boot, React, and databases
-- **Health Monitoring**: Real-time status checking and automatic recovery
-- **Graceful Shutdown**: Clean service termination with proper cleanup
-
-### [[==== TOOLS ====] Professional Development Tools]
-- **Spring Boot Backend**: Production-ready REST API with PostgreSQL/MongoDB/Redis
-- **React Frontend**: Modern Vite-based SPA with TypeScript and testing
-- **Database Services**: Containerized PostgreSQL, MongoDB, and Redis clusters
-- **Development Servers**: Hot reload, auto-restart, and live reloading
-
-### [[==== CHART ====] Advanced Progress Visualization]
-- **[SPARKLE] Neon Cyberpunk**: Futuristic animated progress with glow effects
-- **[WAVE] Ocean Wave**: Smooth wave animations with color gradients
-- [[==== GAMING ====] Retro Gaming]: Pixel-art progress bars with nostalgic charm
-- [[==== FLAME ====] Fire]: Dynamic flame-inspired progress visualization
-- [[==== MINIMAL ====] Minimalist]: Clean, professional progress indicators
-
-### [[==== TOOLS ====] Enterprise Features]
-- **Interactive Controls**: Pause, resume, and cancel long-running operations
-- **Progress Persistence**: Resume interrupted operations from saved state
-- **Speed Indicators**: Real-time transfer rates and ETA calculations
-- **Celebration Effects**: Animated completion with audio feedback
+- **Intelligent Automation**: AI-powered system detection and optimization.
+- **Lightning Fast**: Complete environment setup in under 2 minutes.
+- **Beautiful Interface**: Multiple progress bar styles with celebration effects.
+- **Zero Configuration**: Automatically adapts to your system capabilities.
+- **Production Ready**: Docker integration with security best practices.
+- **Real-time Monitoring**: Live dashboard with system metrics.
+- **Enterprise Security**: Secure credential management and JWT authentication.
 
 ---
 
-## [[==== ROCKET ====] Quick Start]
+## Key Features
 
-### [1] **Navigate to Toolkit Directory**
+### Adaptive Intelligence
+- **System Auto-Detection**: Analyzes CPU, RAM, disk space, and architecture.
+- **Smart Classification**: Automatically categorizes devices (low-end to ultra-high).
+- **Dynamic Optimization**: Applies optimal configuration based on hardware.
+- **Resource Management**: Intelligent JVM heap and database connection allocation.
+
+### Complete Project Lifecycle
+- **One-Command Setup**: Initialize complete development environment instantly.
+- **Service Orchestration**: Perfect coordination of Spring Boot, React, and databases.
+- **Health Monitoring**: Real-time status checking and automatic recovery.
+- **Graceful Shutdown**: Clean service termination with proper cleanup.
+
+### Professional Development Tools
+- **Spring Boot Backend**: Production-ready REST API with PostgreSQL/MongoDB/Redis.
+- **React Frontend**: Modern Vite-based SPA with TypeScript and testing.
+- **Database Services**: Containerized PostgreSQL, MongoDB, and Redis clusters.
+- **Development Servers**: Hot reload, auto-restart, and live reloading.
+
+### Advanced Progress Visualization
+- **Neon Cyberpunk**: Futuristic animated progress with glow effects.
+- **Ocean Wave**: Smooth wave animations with color gradients.
+- **Retro Gaming**: Pixel-art progress bars with nostalgic charm.
+- **Fire**: Dynamic flame-inspired progress visualization.
+- **Minimalist**: Clean, professional progress indicators.
+
+### Enterprise Features
+- **Interactive Controls**: Pause, resume, and cancel long-running operations.
+- **Progress Persistence**: Resume interrupted operations from saved state.
+- **Speed Indicators**: Real-time transfer rates and ETA calculations.
+- **Celebration Effects**: Animated completion with audio feedback.
+
+---
+
+## Quick Start
+
+### 1. Navigate to Toolkit Directory
 ```bash
-cd FJDTOOL
+cd java-developer-toolkit
 ```
 
-### [2] **Initialize Development Environment**
+### 2. Initialize Development Environment
 ```bash
 ./java-dev-toolkit.sh setup
 ```
 
 **What happens during setup:**
-- [[==== MAGNIFY ====] System Analysis]: Detects hardware capabilities and classifies device type
-- [[==== GEAR ====] Adaptive Configuration]: Creates optimized settings for your system
-- [[==== JAVA ====] Spring Boot Setup]: Configures Gradle project with modern dependencies
-- [[==== REACT ====] React Installation]: Sets up Vite-based frontend with TypeScript
-- [[==== DOCKER ====] Docker Services]: Initializes PostgreSQL, MongoDB, and Redis containers
-- [[==== BOOK ====] Documentation]: Generates comprehensive project documentation
+- System Analysis: Detects hardware capabilities and classifies device type.
+- Adaptive Configuration: Creates optimized settings for your system.
+- Spring Boot Setup: Configures Gradle project with modern dependencies.
+- React Installation: Sets up Vite-based frontend with TypeScript.
+- Docker Services: Initializes PostgreSQL, MongoDB, and Redis containers.
+- Documentation: Generates comprehensive project documentation.
 
-### [3] **Launch All Services**
+### 3. Launch All Services
 ```bash
 ./java-dev-toolkit.sh start
 ```
@@ -105,7 +103,7 @@ cd FJDTOOL
 - **Redis Cache** → localhost:6379
 - **Redis Commander** → http://localhost:8081
 
-### [4] **Verify Installation**
+### 4. Verify Installation
 ```bash
 # Check system status
 ./java-dev-toolkit.sh status
@@ -119,7 +117,7 @@ cd FJDTOOL
 
 ---
 
-## [[==== BOOK ====] Command Reference]
+## Command Reference
 
 ### Core Commands
 
@@ -151,21 +149,21 @@ cd FJDTOOL
 
 ---
 
-## [[==== TOOLS ====] System Requirements]
+## System Requirements
 
-### [[==== LIST ====] Minimum Requirements]
+### Minimum Requirements
 - **Operating System**: Linux/macOS/Windows (WSL)
 - **Memory**: 2GB RAM (4GB recommended)
 - **Storage**: 5GB free disk space
 - **Dependencies**: Bash 4.0+, curl, git
 
-### [[==== LIGHTNING ====] Recommended Specifications]
+### Recommended Specifications
 - **CPU**: 4+ cores for optimal performance
 - **RAM**: 8GB+ for smooth operation
 - **Storage**: 20GB+ SSD for fast builds
 - **Network**: Stable internet for initial setup
 
-### [[==== PLUGIN ====] Optional Dependencies]
+### Optional Dependencies
 - **Docker**: For containerized database services
 - **Java 17+**: For local backend development
 - **Node.js 18+**: For frontend development
@@ -173,16 +171,16 @@ cd FJDTOOL
 
 ---
 
-## [[==== GEAR ====] Configuration]
+## Configuration
 
 ### Device Classification Matrix
 
 | Device Class | CPU Cores | RAM | JVM Heap | DB Pool | Features |
 |-------------|-----------|-----|-----------|---------|----------|
-| **[MONITOR] Low-end** | < 4 | < 4GB | 512MB | 5 | Basic setup, minimal monitoring |
-| **[COMPUTER] Mid-range** | 4-8 | 4-8GB | 1GB | 10 | Standard setup, essential features |
-| **[MONITOR] High-end** | 8-16 | 8-16GB | 2GB | 20 | Full features, parallel processing |
-| [[==== ROCKET ====] Ultra-high] | > 16 | > 16GB | 4GB | 30 | Maximum performance, all features |
+| **Low-end** | < 4 | < 4GB | 512MB | 5 | Basic setup, minimal monitoring |
+| **Mid-range** | 4-8 | 4-8GB | 1GB | 10 | Standard setup, essential features |
+| **High-end** | 8-16 | 8-16GB | 2GB | 20 | Full features, parallel processing |
+| **Ultra-high** | > 16 | > 16GB | 4GB | 30 | Maximum performance, all features |
 
 ### Environment Variables
 
@@ -217,43 +215,43 @@ VITE_PARALLEL_PROCESSES=2
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-FJDTOOL/
-├── 🧩 java-dev-toolkit.sh    # Main toolkit script
-├── 📚 README.md              # This comprehensive documentation
+java-developer-toolkit/
+├── java-dev-toolkit.sh    # Main toolkit script
+├── README.md              # This comprehensive documentation
 └── [Generated Project Structure]:
     ├── backend/
     │   └── spring-boot-template/
-    │       ├── 📝 src/main/java/org/nakhan/
-    │       ├── 🧪 src/test/java/org/nakhan/
-    │       ├── ⚙️ src/main/resources/
-    │       ├── 📋 build.gradle.kts
-    │       └── 🔧 .env
+    │       ├── src/main/java/org/nakhan/
+    │       ├── src/test/java/org/nakhan/
+    │       ├── src/main/resources/
+    │       ├── build.gradle.kts
+    │       └── .env
     ├── frontend/
     │   └── react-vite-template/
-    │       ├── ⚛️ src/ (React components)
-    │       ├── 🧪 src/test/
-    │       ├── 📦 package.json
-    │       ├── ⚙️ vite.config.ts
-    │       └── 🔧 .env
+    │       ├── src/ (React components)
+    │       ├── src/test/
+    │       ├── package.json
+    │       ├── vite.config.ts
+    │       └── .env
     ├── database/
-    │   ├── 🐘 postgres/ (PostgreSQL configs)
-    │   ├── 🍃 mongo/ (MongoDB configs)
-    │   └── ⚡ redis/ (Redis configs)
+    │   ├── postgres/ (PostgreSQL configs)
+    │   ├── mongo/ (MongoDB configs)
+    │   └── redis/ (Redis configs)
     ├── devops/
-    │   ├── 🐳 docker/ (Dockerfiles)
-    │   ├── ☸️ kubernetes/ (K8s manifests)
-    │   └── 🔧 jenkins/ (CI/CD pipelines)
+    │   ├── docker/ (Dockerfiles)
+    │   ├── kubernetes/ (K8s manifests)
+    │   └── jenkins/ (CI/CD pipelines)
     ├── testing/
-    │   ├── 🧪 junit-examples/
-    │   ├── 🃏 mockito-examples/
-    │   └── 🐳 testcontainers/
-    ├── 📋 docs/
-    │   ├── 📖 api/ (API documentation)
-    │   ├── 🚀 deployment/ (Deployment guides)
-    │   └── 💻 development/ (Dev guides)
+    │   ├── junit-examples/
+    │   ├── mockito-examples/
+    │   └── testcontainers/
+    ├── docs/
+    │   ├── api/ (API documentation)
+    │   ├── deployment/ (Deployment guides)
+    │   └── development/ (Dev guides)
     ├── logs/                    # Application logs
     ├── backups/                 # Database backups
     └── scripts/                 # Utility scripts
@@ -261,11 +259,11 @@ FJDTOOL/
 
 ---
 
-## [[==== TOOLS ====] Development Workflow]
+## Development Workflow
 
-### [[==== JAVA ====] Backend Development]
+### Backend Development
 
-#### [[==== ROCKET ====] Starting Backend Services]
+#### Starting Backend Services
 ```bash
 cd backend/spring-boot-template
 
@@ -282,7 +280,7 @@ cd backend/spring-boot-template
 ./gradlew test jacocoTestReport
 ```
 
-#### [[==== BUILDING ====] Backend Architecture]
+#### Backend Architecture
 - **Framework**: Spring Boot 3.1.5
 - **Language**: Java 17+
 - **Build Tool**: Gradle (Kotlin DSL)
@@ -291,9 +289,9 @@ cd backend/spring-boot-template
 - **Security**: Spring Security with JWT
 - **Documentation**: OpenAPI 3.0 (Swagger)
 
-### [[==== REACT ====] Frontend Development]
+### Frontend Development
 
-#### [[==== ROCKET ====] Starting Frontend Services]
+#### Starting Frontend Services
 ```bash
 cd frontend/react-vite-template
 
@@ -316,7 +314,7 @@ npm test
 npm run test:coverage
 ```
 
-#### [[==== BUILDING ====] Frontend Architecture]
+#### Frontend Architecture
 - **Framework**: React 18.2.0
 - **Build Tool**: Vite 4.5.0
 - **Language**: TypeScript 5.2.2
@@ -325,9 +323,9 @@ npm run test:coverage
 - **HTTP Client**: Axios 1.6.0
 - **Testing**: Vitest 0.34.6
 
-### [[==== DATABASE ====] Database Management]
+### Database Management
 
-#### [[==== ROCKET ====] Starting Database Services]
+#### Starting Database Services
 ```bash
 # Start all databases
 ./java-dev-toolkit.sh start databases
@@ -338,7 +336,7 @@ docker-compose up -d mongodb
 docker-compose up -d redis
 ```
 
-#### [[==== LINK ====] Database Access]
+#### Database Access
 - **PostgreSQL**: `localhost:5432` (User: `java_dev_user`)
 - **MongoDB**: `localhost:27017` (Database: `java_dev_app`)
 - **Redis**: `localhost:6379` (No authentication by default)
@@ -346,35 +344,35 @@ docker-compose up -d redis
 
 ---
 
-## [[==== PALETTE ====] Progress Bar Showcase]
+## Progress Bar Showcase
 
 ### Available Styles
 
-#### [[==== FLAME ====] Neon Cyberpunk Style]
+#### Neon Cyberpunk Style
 ```
 ┌─ Operation: Database Migration ─────────────────┐ [NEON CYBERPUNK]
 │███████████████████████████████████████████████░░│ 95% [2.3s → 0.1s]
 ```
 
-#### [[==== WAVE ====] Ocean Wave Style]
+#### Ocean Wave Style
 ```
 [WAVE] Operation: Code Compilation [WAVE] [OCEAN WAVE]
 │▁▃▄▅▆▇█▇▆▅▄▃ ▁▃▄▅▆▇█▇▆▅▄▃ ▁▃▄▅▆▇█▇▆▅▄▃░░░░│ 87% [1.2s → 0.2s]
 ```
 
-#### [[==== GAMING ====] Retro Gaming Style]
+#### Retro Gaming Style
 ```
 ╔══ Operation: Asset Optimization ═════════════════╗ [RETRO GAMING]
 ║███████████████████████████████▓▒░░░░░░░░░░░░░░░░║ 78% [0.8s → 0.3s]
 ```
 
-#### [[==== FLAME ====] Fire Style]
+#### Fire Style
 ```
 [FLAME] Operation: Testing Suite [FLAME] [FIRE]
 │▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▂▃▄▅▆▇█▇▆▅▄▃▂░░░░░░░░░░░░░░░│ 65% [1.5s → 0.8s]
 ```
 
-#### [[==== MINIMAL ====] Minimalist Style]
+#### Minimalist Style
 ```
 Operation: Deployment [89%]
 │██████████████████████████████████████░░░░░░░░░░░│ [0.5s → 0.1s]
@@ -382,7 +380,7 @@ Operation: Deployment [89%]
 
 ---
 
-## [[==== MAGNIFY ====] Advanced Monitoring]
+## Advanced Monitoring
 
 ### Real-time Dashboard
 ```bash
@@ -390,11 +388,11 @@ Operation: Deployment [89%]
 ```
 
 **Dashboard Features:**
-- [[==== CHART ====] System Resources]: CPU, memory, and disk utilization
-- [[==== TOOLS ====] Service Status]: Health checks for all running services
-- [[==== LIGHTNING ====] Process Information]: Active PIDs and resource consumption
-- [[==== ROCKET ====] Quick Actions]: Keyboard shortcuts for common tasks
-- [[==== CHART ====] Performance Metrics]: Response times and throughput
+- System Resources: CPU, memory, and disk utilization.
+- Service Status: Health checks for all running services.
+- Process Information: Active PIDs and resource consumption.
+- Quick Actions: Keyboard shortcuts for common tasks.
+- Performance Metrics: Response times and throughput.
 
 ### Log Management System
 
@@ -413,18 +411,18 @@ Operation: Deployment [89%]
 #### Log Files Structure
 ```
 logs/
-├── [[==== LIST ====] fjdtool.log]           # Main toolkit execution log
-├── [[==== TOOLS ====] backend.log]           # Spring Boot application log
-└── [[==== REACT ====] frontend.log]          # React development server log
+├── fjdtool.log           # Main toolkit execution log
+├── backend.log           # Spring Boot application log
+└── frontend.log          # React development server log
 ```
 
 ---
 
-## [[==== SHIP ====] Deployment Guide]
+## Deployment Guide
 
 ### Production Deployment
 
-#### [1] **Environment Preparation**
+#### 1. Environment Preparation
 ```bash
 # Full production setup
 ./java-dev-toolkit.sh setup full
@@ -433,7 +431,7 @@ logs/
 ./java-dev-toolkit.sh config
 ```
 
-#### [2] **Build Production Artifacts**
+#### 2. Build Production Artifacts
 ```bash
 # Backend production build
 cd backend/spring-boot-template
@@ -447,7 +445,7 @@ npm run build
 docker-compose build
 ```
 
-#### [3] **Deploy to Production**
+#### 3. Deploy to Production
 ```bash
 # Start production environment
 docker-compose -f docker-compose.prod.yml up -d
@@ -460,26 +458,26 @@ curl http://localhost:3000
 ### Environment Configurations
 
 #### Development Environment
-- **Hot Reload**: Instant updates during development
-- **Debug Logging**: Verbose output for troubleshooting
-- **Development Tools**: React DevTools, Spring Boot DevTools
-- **Relaxed Security**: Permissive CORS and authentication
+- **Hot Reload**: Instant updates during development.
+- **Debug Logging**: Verbose output for troubleshooting.
+- **Development Tools**: React DevTools, Spring Boot DevTools.
+- **Relaxed Security**: Permissive CORS and authentication.
 
 #### Staging Environment
-- **Performance Monitoring**: Application metrics and profiling
-- **Limited Debugging**: Essential logging only
-- **Pre-production Data**: Staging database with test data
-- **Load Testing**: Performance validation before production
+- **Performance Monitoring**: Application metrics and profiling.
+- **Limited Debugging**: Essential logging only.
+- **Pre-production Data**: Staging database with test data.
+- **Load Testing**: Performance validation before production.
 
 #### Production Environment
-- **Optimized Builds**: Minified and compressed assets
-- **Security Hardening**: Strict CORS, HTTPS enforcement
-- **Comprehensive Logging**: Structured logging with log aggregation
-- **Health Monitoring**: Automated alerts and recovery
+- **Optimized Builds**: Minified and compressed assets.
+- **Security Hardening**: Strict CORS, HTTPS enforcement.
+- **Comprehensive Logging**: Structured logging with log aggregation.
+- **Health Monitoring**: Automated alerts and recovery.
 
 ---
 
-## [[==== TEST ====] Testing Framework]
+## Testing Framework
 
 ### Backend Testing
 
@@ -530,33 +528,33 @@ npm run test:e2e
 
 ---
 
-## [[==== LOCK ====] Security Features]
+## Security Features
 
 ### Authentication & Authorization
-- **JWT Tokens**: Stateless authentication with configurable expiration
-- **Spring Security**: Role-based access control (RBAC)
-- **Secure Headers**: Protection against common web vulnerabilities
-- **CORS Configuration**: Configurable cross-origin resource sharing
+- **JWT Tokens**: Stateless authentication with configurable expiration.
+- **Spring Security**: Role-based access control (RBAC).
+- **Secure Headers**: Protection against common web vulnerabilities.
+- **CORS Configuration**: Configurable cross-origin resource sharing.
 
 ### Database Security
-- **Connection Encryption**: SSL/TLS for database connections
-- **Credential Management**: Environment-based secret storage
-- **SQL Injection Prevention**: JPA/Hibernate with parameterized queries
-- **Access Control**: Database user permissions and roles
+- **Connection Encryption**: SSL/TLS for database connections.
+- **Credential Management**: Environment-based secret storage.
+- **SQL Injection Prevention**: JPA/Hibernate with parameterized queries.
+- **Access Control**: Database user permissions and roles.
 
 ### Docker Security
-- **Container Isolation**: Non-root containers with minimal privileges
-- **Network Security**: Isolated networks for different services
-- **Image Scanning**: Vulnerability assessment for base images
-- **Secret Management**: Secure handling of sensitive data
+- **Container Isolation**: Non-root containers with minimal privileges.
+- **Network Security**: Isolated networks for different services.
+- **Image Scanning**: Vulnerability assessment for base images.
+- **Secret Management**: Secure handling of sensitive data.
 
 ---
 
-## [[==== SOS ====] Troubleshooting Guide]
+## Troubleshooting Guide
 
 ### Common Issues & Solutions
 
-#### [[==== PROHIBITED ====] Services Fail to Start]
+#### Services Fail to Start
 ```bash
 # Diagnose the issue
 ./java-dev-toolkit.sh status
@@ -574,7 +572,7 @@ kill -9 $(lsof -ti :1998)
 ./java-dev-toolkit.sh start
 ```
 
-#### [[==== DATABASE ====] Database Connection Issues]
+#### Database Connection Issues
 ```bash
 # Check Docker services
 docker ps | grep java-dev
@@ -589,7 +587,7 @@ docker ps | grep java-dev
 psql -h localhost -p 5432 -U java_dev_user java_dev_app
 ```
 
-#### [[==== GEAR ====] Configuration Problems]
+#### Configuration Problems
 ```bash
 # Reset to defaults
 ./java-dev-toolkit.sh config
@@ -601,7 +599,7 @@ nano .fjdtool.conf
 ./java-dev-toolkit.sh status
 ```
 
-#### [[==== PACKAGE ====] Dependency Issues]
+#### Dependency Issues
 ```bash
 # Check system requirements
 ./java-dev-toolkit.sh status
@@ -635,7 +633,7 @@ brew install node openjdk@17 git curl
 
 ---
 
-## [[==== CHART ====] Performance Benchmarks]
+## Performance Benchmarks
 
 ### Setup Performance
 | System Type | Setup Time | Memory Usage | CPU Usage |
@@ -653,11 +651,11 @@ brew install node openjdk@17 git curl
 
 ---
 
-## [[==== HANDSHAKE ====] Contributing]
+## Contributing
 
 We welcome contributions from the Java development community! Here's how you can help:
 
-### [[==== ROCKET ====] Getting Started]
+### Getting Started
 1. **Fork** the repository on GitHub
 2. **Clone** your fork locally
 3. **Create** a feature branch: `git checkout -b feature/amazing-feature`
@@ -667,7 +665,7 @@ We welcome contributions from the Java development community! Here's how you can
 7. **Push** to the branch: `git push origin feature/amazing-feature`
 8. **Open** a Pull Request
 
-### [[==== TEST ====] Development Guidelines]
+### Development Guidelines
 
 #### Code Style
 - **Shell Scripts**: Follow Google Shell Style Guide
@@ -687,21 +685,21 @@ We welcome contributions from the Java development community! Here's how you can
 - **Troubleshooting**: Document common issues and solutions
 - **Changelog**: Maintain version history
 
-### [[==== BOOK ====] Contribution Types]
+### Contribution Types
 
-#### [[==== BUG ====] Bug Reports]
+#### Bug Reports
 - **Reproducible**: Include steps to reproduce the issue
 - **Environment Details**: Specify OS, hardware, and software versions
 - **Expected vs Actual**: Clear description of the problem
 - **Logs**: Include relevant log excerpts
 
-#### [[==== BULB ====] Feature Requests]
+#### Feature Requests
 - **Use Case**: Explain the problem you're trying to solve
 - **Proposed Solution**: Describe your suggested implementation
 - **Alternatives**: Mention other solutions you've considered
 - **Additional Context**: Screenshots, examples, or references
 
-#### [[==== TOOLS ====] Code Contributions]
+#### Code Contributions
 - **Enhancements**: Performance improvements, new features
 - **Bug Fixes**: Security patches, crash fixes, edge case handling
 - **Documentation**: README updates, code comments, examples
@@ -709,28 +707,28 @@ We welcome contributions from the Java development community! Here's how you can
 
 ---
 
-## [[==== LIST ====] Changelog]
+## Changelog
 
 ### v1.0.0 (Current Release)
-- [[==== ROCKET ====] Initial Release]: Complete Java Developer Toolkit
-- [[==== SPARKLE ====] Adaptive Configuration]: Intelligent system optimization
-- [[==== PALETTE ====] Multiple Progress Styles]: 5 beautiful progress bar themes
-- [[==== DOCKER ====] Docker Integration]: Complete containerization support
-- [[==== CHART ====] Real-time Monitoring]: Live dashboard with system metrics
-- [[==== LOCK ====] Security Features]: JWT authentication and secure defaults
+- Initial Release: Complete Java Developer Toolkit
+- Adaptive Configuration: Intelligent system optimization
+- Multiple Progress Styles: 5 beautiful progress bar themes
+- Docker Integration: Complete containerization support
+- Real-time Monitoring: Live dashboard with system metrics
+- Security Features: JWT authentication and secure defaults
 
 ### Planned Features (v1.1.0)
-- [[==== KUBERNETES ====] Kubernetes Support]: Native K8s deployment manifests
-- [[==== TOOLS ====] Plugin System]: Extensible architecture for custom tools
-- [[==== MOBILE ====] Mobile Dashboard]: Web-based monitoring interface
-- [[==== ROBOT ====] CI/CD Integration]: GitHub Actions and Jenkins templates
-- [[==== GLOBE ====] Multi-environment]: Advanced staging and production configs
+- Kubernetes Support: Native K8s deployment manifests
+- Plugin System: Extensible architecture for custom tools
+- Mobile Dashboard: Web-based monitoring interface
+- CI/CD Integration: GitHub Actions and Jenkins templates
+- Multi-environment: Advanced staging and production configs
 
 ---
 
-## [[==== QUESTION ====] FAQ]
+## FAQ
 
-### [[==== TOOLS ====] Technical Questions]
+### Technical Questions
 
 **Q: What makes this toolkit different from other development tools?**
 > A: The Java Developer Toolkit features adaptive intelligence that automatically optimizes configuration based on your system's capabilities, combined with beautiful progress visualization and enterprise-grade service orchestration.
@@ -741,7 +739,7 @@ We welcome contributions from the Java development community! Here's how you can
 **Q: How does the adaptive configuration work?**
 > A: The toolkit analyzes your system's CPU cores, RAM, disk space, and architecture, then automatically selects optimal JVM heap sizes, database connection pools, and parallel processing settings.
 
-### [[==== ROCKET ====] Usage Questions]
+### Usage Questions
 
 **Q: Do I need Docker to use this toolkit?**
 > A: While Docker is recommended for the complete experience with database services, the toolkit can function with local installations of PostgreSQL, MongoDB, and Redis.
@@ -752,7 +750,7 @@ We welcome contributions from the Java development community! Here's how you can
 **Q: How do I contribute to the toolkit?**
 > A: We welcome contributions! Fork the repository, make your improvements, and submit a pull request. Check our contributing guidelines for detailed instructions.
 
-### [[==== SOS ====] Troubleshooting Questions]
+### Troubleshooting Questions
 
 **Q: The setup command fails with permission errors**
 > A: Ensure you have write permissions in the current directory and that all dependencies (Java, Node.js, Docker) are properly installed.
@@ -765,23 +763,23 @@ We welcome contributions from the Java development community! Here's how you can
 
 ---
 
-## [[==== PHONE ====] Support & Contact]
+## Support & Contact
 
-### [[==== SOS ====] Getting Help]
+### Getting Help
 
-1. [[==== BOOK ====] Documentation]: Start with this comprehensive README
-2. [[==== MAGNIFY ====] Logs]: Check `logs/fjdtool.log` for detailed execution information
-3. [[==== CHART ====] Status]: Run `./java-dev-toolkit.sh status` for current system state
-4. [[==== BUG ====] Debug Mode]: Use `./java-dev-toolkit.sh --debug` for verbose output
+1. Documentation: Start with this comprehensive README
+2. Logs: Check `logs/fjdtool.log` for detailed execution information
+3. Status: Run `./java-dev-toolkit.sh status` for current system state
+4. Debug Mode: Use `./java-dev-toolkit.sh --debug` for verbose output
 
-### [[==== GLOBE ====] Community]
+### Community
 
-- [[==== BOOK ====] GitHub Repository]: https://github.com/your-repo/java-developer-toolkit
-- [[==== CHAT ====] Discussions]: GitHub Discussions for questions and feedback
-- [[==== BUG ====] Issues]: GitHub Issues for bug reports and feature requests
-- [[==== ROCKET ====] Pull Requests]: Contribute improvements and fixes
+- GitHub Repository: https://github.com/your-repo/java-developer-toolkit
+- Discussions: GitHub Discussions for questions and feedback
+- Issues: GitHub Issues for bug reports and feature requests
+- Pull Requests: Contribute improvements and fixes
 
-### [[==== EMAIL ====] Direct Contact]
+### Direct Contact
 
 For enterprise support, partnerships, or urgent issues:
 - **Email**: support@javadevtoolkit.com
@@ -790,7 +788,7 @@ For enterprise support, partnerships, or urgent issues:
 
 ---
 
-## [[==== DOCUMENT ====] License & Legal]
+## License & Legal
 
 ### MIT License
 
@@ -818,7 +816,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-### [[==== SCALES ====] Terms of Service]
+### Terms of Service
 
 #### Acceptable Use
 - Use the toolkit for legitimate software development purposes
@@ -833,76 +831,76 @@ SOFTWARE.
 
 ---
 
-## [[==== TROPHY ====] Awards & Recognition]
+## Awards & Recognition
 
 <div align="center">
 
-### [[==== MEDAL ====] Technology Excellence]
+### Technology Excellence
 - **Best Developer Tool 2024** - DevTools Awards
 - **Most Innovative Automation Script** - ScriptCon 2024
 - **Editor's Choice** - Java Development Magazine
 
-### [[==== STAR ====] Community Choice]
-- [[==== STAR ====] 10,000+ GitHub Stars] - Community adoption milestone
-- [[==== FLAME ====] Trending Project] - GitHub trending Java projects
-- [[==== CHAT ====] Active Community] - 500+ contributors and growing
+### Community Choice
+- 10,000+ GitHub Stars - Community adoption milestone
+- Trending Project - GitHub trending Java projects
+- Active Community - 500+ contributors and growing
 
 </div>
 
 ---
 
-## [TARGET] Use Cases & Success Stories
+## Use Cases & Success Stories
 
-### [[==== ROCKET ====] Individual Developers]
+### Individual Developers
 *"The Java Developer Toolkit transformed my development workflow. What used to take hours now takes minutes, and the adaptive configuration means it works perfectly on my laptop and desktop."*
 — Sarah Chen, Full-Stack Developer
 
-### [[==== PEOPLE ====] Development Teams]
+### Development Teams
 *"Our team standardized on the Java Developer Toolkit for all new projects. The consistent environment setup and beautiful progress indicators have improved our productivity significantly."*
 — Mike Rodriguez, Tech Lead
 
-### [[==== GRADUATION ====] Educational Institutions]
+### Educational Institutions
 *"Perfect for teaching full-stack Java development. Students can focus on learning concepts rather than struggling with environment setup."*
 — Dr. Emily Watson, Computer Science Professor
 
-### [[==== BUILDING ====] Enterprise Adoption]
+### Enterprise Adoption
 *"The enterprise features and security capabilities made this an easy choice for our development teams. The Docker integration ensures consistency across our infrastructure."*
 — James Thompson, DevOps Manager
 
 ---
 
-## [[==== CRYSTAL_BALL ====] Roadmap]
+## Roadmap
 
 ### v1.1.0 (Next Release)
-- [[==== KUBERNETES ====] Kubernetes Native]: Native Kubernetes manifests and operators
-- [[==== TOOLS ====] Plugin Architecture]: Extensible plugin system for custom tools
-- [[==== MOBILE ====] Web Dashboard]: Browser-based monitoring and management interface
-- [[==== ROBOT ====] AI Assistant]: Integrated AI for code suggestions and debugging
+- Kubernetes Native: Native Kubernetes manifests and operators
+- Plugin Architecture: Extensible plugin system for custom tools
+- Web Dashboard: Browser-based monitoring and management interface
+- AI Assistant: Integrated AI for code suggestions and debugging
 
 ### v1.2.0 (Future Release)
-- [[==== GLOBE ====] Multi-language Support]: Python, Node.js, and .NET variants
-- [[==== LINK ====] Cloud Integration]: AWS, Azure, and GCP native deployment
-- [[==== CHART ====] Advanced Analytics]: Detailed performance metrics and insights
-- [[==== PALETTE ====] Custom Themes]: User-defined progress bar styles and themes
+- Multi-language Support: Python, Node.js, and .NET variants
+- Cloud Integration: AWS, Azure, and GCP native deployment
+- Advanced Analytics: Detailed performance metrics and insights
+- Custom Themes: User-defined progress bar styles and themes
 
 ### v2.0.0 (Major Release)
-- [[==== BRAIN ====] Machine Learning]: Predictive optimization based on usage patterns
-- [[==== EARTH ====] Global CDN]: Distributed toolkit delivery for faster setup
-- [[==== LOCK ====] Advanced Security]: End-to-end encryption and compliance features
-- [[==== ROCKET ====] Performance]: Sub-10-second setup times with advanced caching
+- Machine Learning: Predictive optimization based on usage patterns
+- Global CDN: Distributed toolkit delivery for faster setup
+- Advanced Security: End-to-end encryption and compliance features
+- Performance: Sub-10-second setup times with advanced caching
 
 ---
 
 <div align="center">
 
-## [[==== PUZZLE ====] Start Your Java Development Journey Today!]
+## Start Your Java Development Journey Today!
 
-[[==== UP_ARROW ====] Back to Top](#-java-developer-toolkit-fjdtool) • [[==== ROCKET ====] Quick Start](#-quick-start) • [[==== BOOK ====] Documentation](#-command-reference) • [[==== HANDSHAKE ====] Contribute](#-contributing)
+[Back to Top](#java-developer-toolkit) • [Quick Start](#quick-start) • [Documentation](#command-reference) • [Contribute](#contributing)
 
 ---
 
-**[[==== PUZZLE ====] Java Developer Toolkit v1.0.0**
-*Built with [HEART] for Java developers everywhere*
+**Java Developer Toolkit v1.0.0**
+*Built for Java developers everywhere*
 
 *"The ultimate toolkit for modern Java development"*
 
